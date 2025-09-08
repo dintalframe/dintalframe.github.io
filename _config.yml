@@ -26,9 +26,9 @@ author:
   name             : "Donald Intal"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning and Solar Materials Engineer"
-  location         : "Earth"
+  location         : "Charlotte, NC USA"
   employer         : "University of North Carolina at Charlotte"
-  uri              : # URL
+  uri              : "https://ww.charlotte.edu"
   email            : "dintal@charlotte.edu" 
 
   # Academic websites

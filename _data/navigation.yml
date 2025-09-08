@@ -20,11 +20,12 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    # url: /cv/
+    url: /files/dintal_resume_v2.pdf
     
   # - title: "CV"
   #   url: /cv-json/
