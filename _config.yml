@@ -28,7 +28,7 @@ author:
   bio              : "Machine Learning and Solar Materials Engineer"
   location         : "Charlotte, NC USA"
   employer         : "UNC at Charlotte"
-  uri              : "https://www.charlotte.edu"
+  uri              : #"https://www.charlotte.edu"
   email            : "dintal@charlotte.edu" 
 
   # Academic websites

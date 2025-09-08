@@ -3,7 +3,7 @@ title: "Cavitated Ag Paste for Next Generation Solar Cells"
 collection: publications
 category: conferences
 permalink: /publication/CavAgConf2022
-excerpt: 'Every thick film metal paste consists of the components (i) metal powder, (ii) glass frit and (iii) organics or the vehicle. The manufacturing technology of this thick film metal paste can impact the quality of paste with respect to rheology, viscosity, and dispersion of the different particles to avoid agglomeration. The cost of the thick film metal paste can also be impacted by the manufacturing technology as well. This paper reports the performance of PERC cells fabricated with Cavitated Ag paste as compared to that made by the three- roll milling (TRM), which is the state-of-the-art manufacturing technique for the thick film Ag paste. The electrical output parameters for the two sets of pastes were similar with the average efficiency in excess of 21%. The only difference was in the gridline width, which was slightly in favor of the Cavitated- Ag. This will lead to a lower amount of Ag per cell, which is in line to reduce the cost of photovoltaic electricity.'
+excerpt: 'This work demonstrates that cavitation-processed Ag pastes achieve >21% efficiency in PERC cells while reducing silver usage through narrower gridlines.'
 date: 2025-03-22
 venue: '2022 IEEE 19th International Conference on Smart Communities: Improving Quality of Life Using ICT, IoT and AI (HONET)'
 paperurl: 'https://doi.org/10.1109/SoutheastCon56624.2025.10971520'
