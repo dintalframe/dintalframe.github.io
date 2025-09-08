@@ -1,0 +1,13 @@
+---
+title: "The Prospect of Cost Reduction in the Metallization of Crystalline Silicon Solar Cells by Alternative Metal Contacts-Ag Coated Cu Paste"
+collection: publications
+category: conferences
+permalink: /publication/Prospect2023
+excerpt: 'This paper reports on the progress for contacting PERC structures with atmospheric Ag-coated Cu (Ag-c-Cu) screen-printable paste. The preliminary efficiency of >19% on the commercial size silicon wafers is very encouraging, in particular because the cells were sintered at the same peak temperature as the standard Ag paste. The cell efficiency was controlled by the low fill factor of 73.6% due to high series resistance (Rs) of 1.59 Ωcm−2 The high Rs was due to poor printing resulting from non-optimized rheology and viscosity of the Ag-c-Cu. Because this paste was made through the cavitation method instead of the three-roll-milling, the finger widths are very narrow, which would further reduce the metal foot print and cost. This is good news for the concern about Cu diffusion into silicon at high temperature as the Jo2 for this cell and others remain in the 10−9 A/cm2 suggesting the junction is not compromised.'
+date: 2023-12-04
+venue: '2023 IEEE 20th International Conference on Smart Communities: Improving Quality of Life using AI, Robotics and IoT (HONET)'
+paperurl: 'https://doi.org/10.1109/HONET59747.2023.10375015'
+citation: 'Ebong, A., Intal, D., Huneycutt, S., Imhof, H., Stephenson, R., Hankey, D., & Tibbets, M. (2023, December). The Prospect of Cost Reduction in the Metallization of Crystalline Silicon Solar Cells by Alternative Metal Contacts-Ag Coated Cu Paste. In 2023 IEEE 20th International Conference on Smart Communities: Improving Quality of Life using AI, Robotics and IoT (HONET) (pp. 101-104). IEEE.'
+---
+
+This paper reports on the progress for contacting PERC structures with atmospheric Ag-coated Cu (Ag-c-Cu) screen-printable paste. The preliminary efficiency of >19% on the commercial size silicon wafers is very encouraging, in particular because the cells were sintered at the same peak temperature as the standard Ag paste. The cell efficiency was controlled by the low fill factor of 73.6% due to high series resistance (Rs) of 1.59 Ωcm−2 The high Rs was due to poor printing resulting from non-optimized rheology and viscosity of the Ag-c-Cu. Because this paste was made through the cavitation method instead of the three-roll-milling, the finger widths are very narrow, which would further reduce the metal foot print and cost. This is good news for the concern about Cu diffusion into silicon at high temperature as the Jo2 for this cell and others remain in the 10−9 A/cm2 suggesting the junction is not compromised.
